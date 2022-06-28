@@ -9,18 +9,12 @@
   <h1>Hola Hermaño!</h1>
 
   <p>
-    Visit my<a href="https://www.linkedin.com/in/arjan-k-a6a2581a3/">Linkedin Profile</a> to connect
+    Check out the <a href="https://github.com/ajkohl/Hola-Hermano/tree/main">github</a> repository for this website!
   </p>
-
-  <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme">SvelteKit</a> for
-    the officially supported framework, also powered by Vite!
-  </p>
-
 
   <h2>
     <br>
-    Let us know how your experience was!
+    How was your experience?
   </h2>
 
 
@@ -131,6 +125,9 @@
     max-width: 14rem;
     margin: 1rem auto;
     line-height: 1.35;
+  }
+  a {
+    color:#FFF
   }
 
   @media (min-width: 480px) {

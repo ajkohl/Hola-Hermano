@@ -14,10 +14,10 @@
       font-family: inherit;
       font-size: 1.2em;
       padding: 1em 2em;
-      color: #ff3e00;
-      background-color: rgba(255, 62, 0, 0.1);
+      color: aliceblue;
+      background-color: rgba(236, 224, 220, 0.1);
       border-radius: 2em;
-      border: 2px solid rgba(255, 62, 0, 0);
+      border: 2px solid rgba(229, 224, 223, 0);
       outline: none;
       width: 200px;
       font-variant-numeric: tabular-nums;
@@ -29,6 +29,6 @@
     }
   
     button:active {
-      background-color: rgba(255, 62, 0, 0.2);
+    background-color: rgba(239, 232, 230, 0.2);
     }
   </style>
