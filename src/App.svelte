@@ -1,11 +1,10 @@
 <script>
-  import logo from './assets/machu1.jpg'
   import Upvote from './lib/upvote.svelte'
   import Downvote from './lib/downvote.svelte';
 </script>
 
 <main>
-  <img src={logo} alt="Babu" />
+  <img src='./assets/machu1.jpg' alt="Babu" />
   <h1>Hola Hermaño!</h1>
 
   <p>
@@ -126,6 +125,7 @@
     margin: 1rem auto;
     line-height: 1.35;
   }
+
   a {
     color:#FFF
   }
