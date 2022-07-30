@@ -1,7 +1,7 @@
 <script>
   let upcount = 0
   const increment = () => {
-    upcount += 1
+    upcount += 2
   }
 </script>
 
